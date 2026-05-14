@@ -34,10 +34,10 @@ lib/
 ![Home](https://raw.githubusercontent.com/112ab0058/ntut_housing/main/screenshots/home.png)
 
 ### Comparison Page
-![Compare](/ntut_housing/screenshots/compare.png)
+![Home](https://raw.githubusercontent.com/112ab0058/ntut_housing/main/screenshots/compare.png)
 
 ### Commute Analysis Page
-![Commute](/ntut_housing/screenshots/commute.png)
+![Home](https://raw.githubusercontent.com/112ab0058/ntut_housing/main/screenshots/commute.png)
 
 ---
 
