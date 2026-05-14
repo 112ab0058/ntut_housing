@@ -16,13 +16,15 @@ A Flutter-based housing recommendation and comparison application for students a
 
 ## Project Structure
 
+
 lib/
 ├── data/
 ├── models/
 ├── pages/
 ├── providers/
 ├── widgets/
-├── main.dart
+└── main.dart
+
 
 ---
 
@@ -49,7 +51,7 @@ lib/
 
 ## How to Run
 
+### 1. Clone the repository
+```bash
 git clone https://github.com/112ab0058/ntut_housing.git
 cd ntut_housing
-flutter pub get
-flutter run
