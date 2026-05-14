@@ -31,13 +31,13 @@ lib/
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](/ntut_housing/screenshots/home.png)
 
 ### Comparison Page
-![Compare](screenshots/compare.png)
+![Compare](/ntut_housing/screenshots/compare.png)
 
 ### Commute Analysis Page
-![Commute](screenshots/commute.png)
+![Commute](/ntut_housing/screenshots/commute.png)
 
 ---
 
