@@ -31,7 +31,7 @@ lib/
 ## Screenshots
 
 ### Home Page
-![Home](/ntut_housing/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/112ab0058/ntut_housing/main/screenshots/home.png)
 
 ### Comparison Page
 ![Compare](/ntut_housing/screenshots/compare.png)
